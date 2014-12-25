@@ -1,0 +1,6 @@
+language: python
+
+python:
+    - "2.7"
+	
+script: python Lab4ClientServer/server.py Lab4ClientServer/client.py
